@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+<settings id="default">
+<ADMIN_EMAIL>oluwoleoyetoke@gmail.com</ADMIN_EMAIL>
+<TRIGGER_VALUE>98</TRIGGER_VALUE>
+<PORT_FILTER>0</PORT_FILTER>
+<ARP_FILTER>false</ARP_FILTER>
+<ICMP_FILTER>false</ICMP_FILTER>
+	<IGMP_FILTER>false</IGMP_FILTER>
+		<IP_FILTER>false</IP_FILTER>
+			<TCP_FILTER>false</TCP_FILTER>
+				<UDP_FILTER>false</UDP_FILTER>
+					<ALLPROTOCOL_FILTER>true</ALLPROTOCOL_FILTER>
+					</settings>
+</user>
